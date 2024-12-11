@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal Engine 5\\Volumetric\\Source\\Volumetric\\Volumetric.Build.cs",
+		"D:\\Projects\\Unreal Engine 5\\Volumetric\\Source\\Volumetric.Target.cs",
+		"D:\\Projects\\Unreal Engine 5\\Volumetric\\Source\\VolumetricEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
